@@ -9,6 +9,7 @@ public class CheckProtectedAccess {
         //this.age = 37; // This will cause an error if accessed outside the package
         // because 'age' is protected and this class is not a subclass of Student.
         //student1.age = 37; // This will also cause an error for the same reason.
+        ///student1.psp = 85.5;
 
     }
 

@@ -11,7 +11,7 @@ public class Main {
         student.name = "Preeti Kumari";
         student.age = 32;
         student.batchName = "Java Programming";
-        student.psp = 85.5;
+        //student.psp = 85.5;
         student.email = "preeti.kumari@gmail.com";
     }
 }
