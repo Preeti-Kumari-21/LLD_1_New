@@ -1,8 +1,8 @@
 package main.java.org.example.introToOOPS;
 
 public class Student {
-    String name;
-    int age;
+    public String name;
+    protected int age;
     String batchName;
     double psp;
     String email;
